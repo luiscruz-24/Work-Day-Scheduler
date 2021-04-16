@@ -24,6 +24,6 @@ THEN the saved events persist
 
 ## Mock Up
 
-URL:
+URL: https://luiscruz-24.github.io/Work-Day-Scheduler/
 
 ![Mock Up](./assets/images/MockUp.JPG)
